@@ -1,5 +1,10 @@
 # どうも、もちです 👋
 
+<p>
+  <a href="https://twitter.com/motimoti_dev" target="_blank">
+    <img alt="Twitter: motimoti_dev" src="https://img.shields.io/twitter/follow/motimoti_dev.svg?style=social" />
+  </a>
+</p>
 <a href="https://github.com/motimoti-dev">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=motimoti-dev&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true" />
 </a>
